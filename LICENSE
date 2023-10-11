@@ -1,4 +1,4 @@
-MIT License
+MIT License with Acknowledgement
 
 Copyright (c) 2023 Parag M Ahmedabadi
 
@@ -11,6 +11,10 @@ furnished to do so, subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
+
+**Anyone using this code must acknowledge the URL of the code:**
+
+https://github.com/paragkan/DOS_Model/
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
